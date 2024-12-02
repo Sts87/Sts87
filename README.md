@@ -1,4 +1,8 @@
-## [Hi there 👋](https://youtu.be/rhTl_OyehF8)
+![image](https://github.com/user-attachments/assets/f7e473ed-0874-4281-8644-b7c8572de67c)
+
+## [Hi there 👋](https://youtu.be/rhTl_OyehF8) 
+
+
 
 <!--
 **Sts87/Sts87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
