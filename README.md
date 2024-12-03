@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/f7e473ed-0874-4281-8644-b7c8572de67c)
 
-## [Hi there 👋](https://youtu.be/rhTl_OyehF8) 
+
 
 
 
