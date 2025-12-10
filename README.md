@@ -8,7 +8,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg" width="60"/>
     </td>
     <td style="padding: 10px;">
-      <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="130"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original-wordmark.svg" width="54"/>
     </td>
   </tr>
 </table>
