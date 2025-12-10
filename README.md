@@ -5,10 +5,10 @@
 <table style="border-collapse: collapse; width: 100%; text-align: center;">
   <tr>
     <td style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/><br/>Java
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg" width="60"/>
     </td>
     <td style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/><br>Python
+      <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="130"/>
     </td>
   </tr>
 </table>
