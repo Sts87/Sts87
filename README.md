@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 <!-- LANGUAGES -->
-### Languages 💻
-<table style="border-collapse: collapse; width: 100%;text-align: center;">
+## Languages 💻
+<table style="border-collapse: collapse; width: 100%; text-align: center;">
   <tr>
     <td style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28"/><br/>Java
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/><br/>Java
     </td>
     <td style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/><br/>Python
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/><br>Python
     </td>
   </tr>
 </table>
@@ -16,7 +16,7 @@
 <!-- LIBRARIES & FRAMEWORKS -->
 ## Libraries & Frameworks 🛠️
 
-<table style="border-collapse: collapse; width: 100%;text-align: center;">
+<table style="border-collapse: collapse; width: 100%; text-align: center;">
   <tr>
     <td style="padding: 10px;">
       <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="80"/>
