@@ -111,7 +111,7 @@ Collection of ML projects focused on model development, evaluation and experimen
 ---
 
 ## 🎯 My Core Principles
-* **Environment Cleanliness:** Priorizo entornos limpios y reproducibles. Siempre que es posible, utilizo contenedores o Infrastructure as Code para evitar instalaciones innecesarias en el sistema anfitrión.
+* **Environment Cleanliness:** Priorizo entornos limpios y reproducibles. Siempre que es posible, utilizo contenedores o Infrastructure as Code para evitar instalaciones innecesarias en el sistema principal.
 * **Reliable Engineering:** Me interesa construir soluciones confiables apoyándome en herramientas ampliamente adoptadas en entornos empresariales.
 * **Automation First:** Si una tarea es repetitiva, probablemente pueda automatizarse mediante Infrastructure as Code, herramientas de automatización o pipelines.
 
@@ -128,7 +128,7 @@ Collection of ML projects focused on model development, evaluation and experimen
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=Sts87&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true" alt="Sts87's GitHub Stats" height="160">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sts87&layout=compact&theme=tokyonight&langs_count=6&hide=jupyter%20notebook" alt="Top Languages" height="160">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sts87&layout=compact&theme=tokyonight&langs_count=6&hide=jupyter%20notebook,html,javascript,css" alt="Top Languages" height="160">
 </p>
 
 ---
