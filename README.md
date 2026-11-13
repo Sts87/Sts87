@@ -60,19 +60,13 @@ Mi objetivo no es solo utilizar herramientas, sino integrarlas en flujos de trab
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width="45"/><br><sub><b>Python</b></sub>
     </td>
     <td style="padding: 10px;" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastapi/fastapi-original.svg" width="45"/><br><sub><b>FastAPI</b></sub>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pandas/pandas-original.svg" width="45"/><br><sub><b>Pandas</b></sub>
     </td>
     <td style="padding: 10px;" width="100">
-      <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="60"/><br><sub><b>Pandas</b></sub>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br><sub><b>Scikit-Learn</b></sub>
     </td>
     <td style="padding: 10px;" width="100">
-      <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="45"/><br><sub><b>Scikit-Learn</b></sub>
-    </td>
-    <td style="padding: 10px;" width="100">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40"/><br><sub><b>n8n</b></sub>
-    </td>
-    <td style="padding: 10px;" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/langchain/langchain-original.svg" width="45" onerror="this.src='https://img.shields.io/badge/LangChain-white?style=flat-square'"/><br><sub><b>LangChain</b></sub>
+      <img src="https://cdn.simpleicons.org/langchain" width="45"/><br><sub><b>LangChain</b></sub>
     </td>
   </tr>
 </table>
@@ -85,9 +79,6 @@ Mi objetivo no es solo utilizar herramientas, sino integrarlas en flujos de trab
     </td>
     <td style="padding: 10px;" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg" width="45"/><br><sub><b>Grafana</b></sub>
-    </td>
-    <td style="padding: 10px;" width="100">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/grafanaloki.svg" width="45"/><br><sub><b>Loki (Logs)</b></sub>
     </td>
   </tr>
 </table>
