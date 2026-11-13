@@ -110,20 +110,6 @@ Collection of ML projects focused on model development, evaluation and experimen
 
 ---
 
-## 🎯 My Core Principles
-* **Environment Cleanliness:** Priorizo entornos limpios y reproducibles. Siempre que es posible, utilizo contenedores o Infrastructure as Code para evitar instalaciones innecesarias en el sistema principal.
-* **Reliable Engineering:** Me interesa construir soluciones confiables apoyándome en herramientas ampliamente adoptadas en entornos empresariales.
-* **Automation First:** Si una tarea es repetitiva, probablemente pueda automatizarse mediante Infrastructure as Code, herramientas de automatización o pipelines.
-
----
-
-## 📜 Certifications
-* **Oracle Cloud Infrastructure (OCI) 2025 Certified Foundations Associate**
-* **Oracle Cloud Infrastructure (OCI) 2025 Certified AI Foundations Associate**
-* **Model Validation and Evaluation Metrics**
-
----
-
 ## GitHub Stats 📊
 
 <p align="left">
