@@ -7,23 +7,23 @@
   <img src="https://img.shields.io/badge/Cloud-Oracle%20OCI-F80000?style=flat-square&logo=oracle" alt="Cloud">
 </p>
 
-Soy estudiante de **Ingeniería de Sistemas** enfocado en la **infraestructura cloud, la automatización y las tecnologías de nivel empresarial**. 
+I'm a **Systems Engineering** student focused on **cloud infrastructure, automation, and enterprise-grade technologies**.
 
-Mi interés se centra en construir entornos reproducibles, automatizar infraestructura, desplegar aplicaciones mediante contenedores y trabajar con herramientas utilizadas en entornos empresariales. Complemento este enfoque desarrollando soluciones basadas en Machine Learning y LLMs como parte de soluciones orientadas a la automatización, la infraestructura y la ingeniería de plataformas.
+I focus on building reproducible environments, provisioning infrastructure, and deploying containerized applications. I complement this foundation by integrating Machine Learning and LLMs into workflows aimed at automation and platform engineering.
 
 ---
 
-## 🧠 Engineering Approach 
+## 🧠 Engineering Approach
 
-Me gusta explorar nuevas tecnologías mediante proyectos prácticos y comprender cómo interactúan los distintos componentes de un sistema.
+I enjoy exploring new technologies through hands-on projects and understanding how different system components interact end-to-end.
 
-Mi objetivo no es solo utilizar herramientas, sino integrarlas en flujos de trabajo confiables:
+My goal is not just to use tools in isolation, but to integrate them into reliable workflows:
 
-- Entornos automatizados
-- Infraestructura reproducible
-- Aplicaciones contenerizadas
-- Sistemas observables
-- Soluciones impulsadas por IA
+- Automated environments
+- Reproducible infrastructure
+- Containerized applications
+- Observable systems
+- AI-driven workflows
 
 ---
 
@@ -88,20 +88,20 @@ Mi objetivo no es solo utilizar herramientas, sino integrarlas en flujos de trab
 ## 🚀 Featured Projects
 
 ### 🤖 RAG Application with LangChain
-Building experiments with LLM applications, retrieval pipelines and AI workflows.
+Building experiments with LLM applications, retrieval pipelines, and AI workflows.
 
 ### ☁️ Cloud Infrastructure Automation
-Infrastructure deployment using Terraform, OCI and CI/CD practices.
+Infrastructure provisioning and deployment using Terraform, OCI, and CI/CD practices.
 
 ### 📊 Observability Platform
-Containerized environment with monitoring, metrics and centralized logging using Prometheus, Grafana, Loki and Promtail.
+Containerized environment for metrics monitoring and visualization using Prometheus and Grafana.
 
 ### 🧠 Machine Learning Experiments
-Collection of ML projects focused on model development, evaluation and experimentation.
+Collection of ML projects focused on model development, evaluation, and experimentation.
 
 ---
 
-## GitHub Stats 📊
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=Sts87&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true" alt="Sts87's GitHub Stats" height="160">
