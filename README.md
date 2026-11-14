@@ -7,23 +7,23 @@
   <img src="https://img.shields.io/badge/Cloud-Oracle%20OCI-F80000?style=flat-square&logo=oracle" alt="Cloud">
 </p>
 
-Soy estudiante de **Ingeniería de Sistemas** enfocado en la **infraestructura cloud, la automatización y las tecnologías de nivel empresarial**. 
+I'm a **Systems Engineering** student focused on **cloud infrastructure, automation, and enterprise-grade technologies**.
 
-Mi interés se centra en construir entornos reproducibles, automatizar infraestructura, desplegar aplicaciones mediante contenedores y trabajar con herramientas utilizadas en entornos empresariales. Complemento este enfoque desarrollando soluciones basadas en Machine Learning y LLMs como parte de soluciones orientadas a la automatización, la infraestructura y la ingeniería de plataformas.
+I focus on building reproducible environments, provisioning infrastructure, and deploying containerized applications. I complement this foundation by integrating Machine Learning and LLMs into workflows aimed at automation and platform engineering.
 
 ---
 
-## 🧠 Engineering Approach 
+## 🧠 Engineering Approach
 
-Me gusta explorar nuevas tecnologías mediante proyectos prácticos y comprender cómo interactúan los distintos componentes de un sistema.
+I enjoy exploring new technologies through hands-on projects and understanding how different system components interact end-to-end.
 
-Mi objetivo no es solo utilizar herramientas, sino integrarlas en flujos de trabajo confiables:
+My goal is not just to use tools in isolation, but to integrate them into reliable workflows:
 
-- Entornos automatizados
-- Infraestructura reproducible
-- Aplicaciones contenerizadas
-- Sistemas observables
-- Soluciones impulsadas por IA
+- Automated environments
+- Reproducible infrastructure
+- Containerized applications
+- Observable systems
+- AI-driven workflows
 
 ---
 
@@ -60,19 +60,13 @@ Mi objetivo no es solo utilizar herramientas, sino integrarlas en flujos de trab
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width="45"/><br><sub><b>Python</b></sub>
     </td>
     <td style="padding: 10px;" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastapi/fastapi-original.svg" width="45"/><br><sub><b>FastAPI</b></sub>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pandas/pandas-original.svg" width="45"/><br><sub><b>Pandas</b></sub>
     </td>
     <td style="padding: 10px;" width="100">
-      <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="60"/><br><sub><b>Pandas</b></sub>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br><sub><b>Scikit-Learn</b></sub>
     </td>
     <td style="padding: 10px;" width="100">
-      <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="45"/><br><sub><b>Scikit-Learn</b></sub>
-    </td>
-    <td style="padding: 10px;" width="100">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40"/><br><sub><b>n8n</b></sub>
-    </td>
-    <td style="padding: 10px;" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/langchain/langchain-original.svg" width="45" onerror="this.src='https://img.shields.io/badge/LangChain-white?style=flat-square'"/><br><sub><b>LangChain</b></sub>
+      <img src="https://cdn.simpleicons.org/langchain" width="45"/><br><sub><b>LangChain</b></sub>
     </td>
   </tr>
 </table>
@@ -86,9 +80,6 @@ Mi objetivo no es solo utilizar herramientas, sino integrarlas en flujos de trab
     <td style="padding: 10px;" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg" width="45"/><br><sub><b>Grafana</b></sub>
     </td>
-    <td style="padding: 10px;" width="100">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/grafanaloki.svg" width="45"/><br><sub><b>Loki (Logs)</b></sub>
-    </td>
   </tr>
 </table>
 
@@ -97,34 +88,20 @@ Mi objetivo no es solo utilizar herramientas, sino integrarlas en flujos de trab
 ## 🚀 Featured Projects
 
 ### 🤖 RAG Application with LangChain
-Building experiments with LLM applications, retrieval pipelines and AI workflows.
+Building experiments with LLM applications, retrieval pipelines, and AI workflows.
 
 ### ☁️ Cloud Infrastructure Automation
-Infrastructure deployment using Terraform, OCI and CI/CD practices.
+Infrastructure provisioning and deployment using Terraform, OCI, and CI/CD practices.
 
 ### 📊 Observability Platform
-Containerized environment with monitoring, metrics and centralized logging using Prometheus, Grafana, Loki and Promtail.
+Containerized environment for metrics monitoring and visualization using Prometheus and Grafana.
 
 ### 🧠 Machine Learning Experiments
-Collection of ML projects focused on model development, evaluation and experimentation.
+Collection of ML projects focused on model development, evaluation, and experimentation.
 
 ---
 
-## 🎯 My Core Principles
-* **Environment Cleanliness:** Priorizo entornos limpios y reproducibles. Siempre que es posible, utilizo contenedores o Infrastructure as Code para evitar instalaciones innecesarias en el sistema principal.
-* **Reliable Engineering:** Me interesa construir soluciones confiables apoyándome en herramientas ampliamente adoptadas en entornos empresariales.
-* **Automation First:** Si una tarea es repetitiva, probablemente pueda automatizarse mediante Infrastructure as Code, herramientas de automatización o pipelines.
-
----
-
-## 📜 Certifications
-* **Oracle Cloud Infrastructure (OCI) 2025 Certified Foundations Associate**
-* **Oracle Cloud Infrastructure (OCI) 2025 Certified AI Foundations Associate**
-* **Model Validation and Evaluation Metrics**
-
----
-
-## GitHub Stats 📊
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=Sts87&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true" alt="Sts87's GitHub Stats" height="160">
