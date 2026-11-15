@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Cloud-Oracle%20OCI-F80000?style=flat-square&logo=oracle" alt="Cloud">
 </p>
 
-I'm a **Systems Engineering** student focused on **cloud infrastructure, automation, and enterprise-grade technologies**.
+Focused on **cloud infrastructure, automation, and enterprise-grade technologies**.
 
 I focus on building reproducible environments, provisioning infrastructure, and deploying containerized applications. I complement this foundation by integrating Machine Learning and LLMs into workflows aimed at automation and platform engineering.
 
